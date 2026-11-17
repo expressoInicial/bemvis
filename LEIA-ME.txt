@@ -1,0 +1,26 @@
+# Badoo Produções Eventos — Site institucional
+
+## Arquivos
+- index.html: página inicial
+- sobre.html
+- politica-privacidade.html
+- politica-cookies.html
+- aviso-privacidade.html
+- direitos-lgpd.html
+- termos-uso.html
+- gerenciar-cookies.html
+- css/style.css e js/main.js
+- img/hero-ilustracao.svg: ilustração provisória
+
+## Como visualizar
+Abra `index.html` em um navegador. Para publicar, envie todos os arquivos mantendo a estrutura de pastas. O Bootstrap e os ícones são carregados por CDN, portanto a hospedagem precisa permitir acesso à internet.
+
+## Antes de publicar
+1. Substitua a ilustração provisória pelas imagens reais que o responsável enviar.
+2. Revise os textos legais com base nas práticas reais de coleta, armazenamento, compartilhamento e retenção de dados da empresa. Os textos são modelos iniciais, não parecer jurídico.
+3. Confirme se o endereço, CNPJ, e-mail, telefone e descrição dos serviços estão corretos.
+4. Se instalar Google Analytics, Google Ads tags, pixels, mapas, vídeos incorporados ou outros serviços de terceiros, atualize o inventário de cookies, as informações de privacidade e a gestão de consentimento. O aviso incluído é uma implementação inicial e não bloqueia scripts de terceiros que venham a ser adicionados posteriormente.
+5. Adicione aviso de consentimento compatível com as ferramentas efetivamente utilizadas e teste antes de iniciar campanhas.
+
+## Personalização
+A paleta, tipografia, espaçamento e componentes estão em `css/style.css`. O comportamento do aviso e preferências de cookies está em `js/main.js`.
